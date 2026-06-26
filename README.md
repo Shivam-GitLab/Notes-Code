@@ -18,3 +18,8 @@ CREATE TABLE authorities (
 CREATE UNIQUE INDEX ix_auth_username
     ON authorities (username, authority);
 
+
+
+git fetch origin
+git pull origin master --rebase
+git push origin master
