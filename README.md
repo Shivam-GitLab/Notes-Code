@@ -48,8 +48,6 @@ git push origin master
 
 ---
 
-# 3. DSA START
-
 ## Create Project Package Structure
 
 Run these commands in the project's `src/main/java` package directory:
