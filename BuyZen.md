@@ -7,6 +7,7 @@ This document is the complete, "nothing-missing" package and module layout for t
 
 ---
 
+
 ## 1. Technology stack (what lives where)
 
 | Concern | Technology | Where it appears in the tree |
